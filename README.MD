@@ -1,1 +1,1 @@
-init
+npm run serve
